@@ -1,4 +1,3 @@
-
 primzahlen = []
 
 for zahl in range(2, 10000):
@@ -6,3 +5,4 @@ for zahl in range(2, 10000):
         primzahlen.append(zahl)
 
 print(primzahlen[999] + 2026)
+
